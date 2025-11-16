@@ -1,0 +1,74 @@
+Objective:
+Design and build an interactive, stylish, and motivational TO-DO List app that not only helps users manage their tasks efficiently but also inspires them to complete their goals. The UI and UX should feel premium, emotionally engaging, and personalized to the user’s background and daily lifestyle.
+
+Core Instructions:
+
+Personalization & Context Awareness:
+
+On first launch, the app should understand the user — ask brief, aesthetic onboarding questions about:
+
+Their occupation or study field
+
+Their daily schedule or workflow style (creative, analytical, spontaneous, etc.)
+
+Their goals (short-term and long-term)
+
+Their motivation triggers (e.g., visuals, quotes, gamification, minimalism, etc.)
+
+Use this context to adapt the interface theme, tone, and motivational messages uniquely for that user.
+
+Task Input & Management:
+When the user adds a new task, the app should guide them conversationally and visually through:
+
+Task Title (main goal)
+
+Deadline or time frame
+
+Purpose/Relevance (why this matters)
+
+How to do it (optional plan or breakdown)
+
+Reminders (number, timing, or type — subtle or direct)
+
+Optionally, allow tagging or categorizing (e.g., “Work,” “Personal Growth,” “Fitness”)
+
+Each input step should feel fun, smooth, and reflective — not robotic.
+
+Motivational Dynamics:
+
+Upon completion of a task, the app should instantly deliver:
+
+A unique, contextually relevant motivational quote, selected intelligently (not random spam).
+
+Optionally, subtle visual animations or effects (like confetti, glow, or motion blur) to celebrate progress.
+
+Occasionally, drop short, witty check-in prompts to sustain engagement and habit-building.
+
+Interface & Design Language:
+
+Prioritize aesthetic immersion — design should feel modern, minimalist, and emotionally charged.
+
+Think Apple-like smoothness + Notion’s calm + Duolingo’s engagement.
+
+Use typography, microinteractions, and animations to keep users hooked and motivated.
+
+Include theme adaptability (dark/light mode or mood-based themes).
+
+Keep all interactions intuitive, fluid, and vibe-centric — every click should “feel good.”
+
+Behavioral Layer (Optional but Ideal):
+
+Track subtle engagement data (time spent, task types completed, motivational triggers).
+
+Use this to dynamically evolve the tone, design, and motivational style over time — a living, learning productivity companion.
+
+Output Expectation:
+
+Generate a detailed design concept and prototype structure (or code) for this TO-DO List app.
+The final product should:
+
+Be visually stunning and emotionally compelling.
+
+Feel tailor-made for the individual using it.
+
+Create a dopamine-rich experience that genuinely motivates task completion.

@@ -1,0 +1,9 @@
+Add complete backend and frontend functionality for the to-do list app
+
+Implemented Express.js backend API, in-memory storage, React Query frontend integration, error handling, and accessibility improvements.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 544baf0d-3365-462a-981c-0be78bc95b23
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 70f4b065-9543-4257-bef9-05c555f07748
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/2dc54cba-d0dd-4c9a-bde4-d6351ea855f5/544baf0d-3365-462a-981c-0be78bc95b23/GhVUpc1
